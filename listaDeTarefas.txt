@@ -1,0 +1,35 @@
+1º Criar a base do projeto em html
+    1.1 Criar a metatag do charset e UTF-8
+    1.2 Criar link CSS e JavaScript
+    
+2º Criar o tema do site com variaveis das cores (Light e Dark)(@ADRIAN)
+    2.1 - cores e fonte conforme style-guide(@ADRIAN)
+    2.2 - mudança das cores das quantidade de seguidores, do texto "folowers" e "subscribers"(@ADRIAN)
+    2.3 - cores dos status, se positivo(verde), se negativo(vermelho)(@ADRIAN)
+    
+3º Desenvolver botão "Dark Mode" para mudança do tema(@ROBSON):
+    3.1 - Densenvolver o codigo da funcionalidade do botão, que deve alterar as caracteristicas: cor de fundo, cores das quantidade de seguidores, do texto "folowers" e "subscribers", cor dos componentes, 
+    3.2 - Formartar o botão conforme layout/design
+    3.3 - o botão deve mudar de cor quando selecionado Dark ou Light
+
+4º Mudar a fonte no codigo html(@EDU)
+    4.1 Sans-serif - link no style-guide
+ 
+5º Estilizar o Grid da tela
+    5.1 - Desenvolver o GRID de Followers (@ALEX)
+    5.2 - Desenvolver o GRID de Overview (@EDU)
+    5.2 - Incluir alteração para mobile
+
+6º Desenvolver componentes de Followers (@ALEX)
+    6.1 - Adicionar informações dos componentes (@ALEX)
+    6.2 - Adicionar imagens da rede social e da seta cima/baixo (@ALEX)
+    
+7º Desenvolver componentes do "Overview"(@EDU)
+    7.1 - Adicionar informações dos componentes(@EDU)
+    7.2 - Adicionar imagens da rede social e da seta cima/baixo (@EDU)
+
+8º Alterar a cor do Hover do componente de Followers e Overview (@EDU) (Seletor do mouse)
+
+9º Incluir linha de divisão horizontal no cabeçalho para a versão (@ROBSON) mobile 
+
+    
